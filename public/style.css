@@ -1,0 +1,29 @@
+body{
+    background-color:darkslateblue
+}
+
+h1{
+    text-align: center;
+    color: floralwhite;
+}
+
+h2{
+    padding-left: 40px;
+    color: floralwhite;
+
+}
+div{
+    color: floralwhite;
+    padding-left: 20px;
+}
+a{
+    padding-left: 60px;
+    color: floralwhite;
+}
+label{
+    padding-left: 40px;
+    color: floralwhite;
+}
+button{
+    margin-left: 120px;
+}
